@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="238" height="24" viewBox="0 0 238 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.928" y1="0.524" x2="-0.049" y2="0.558" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0c0030"/>
+      <stop offset="1" stop-color="#d8213b"/>
+    </linearGradient>
+  </defs>
+  <g id="Symbol_3_1" data-name="Symbol 3 – 1" transform="translate(-59 -248)">
+    <text id="Welcome_Ponderers" data-name="Welcome           Ponderers" transform="translate(178 267)" font-size="22" font-family="TwCenMT-Bold, Tw Cen MT" font-weight="700"><tspan x="-118.771" y="0" xml:space="preserve">Welcome           Ponderers</tspan></text>
+    <path id="Path_1010" data-name="Path 1010" d="M1.45,4.9H9.733v2.8H4.6v2.951H9.733v2.819H4.622v5.891H1.45Zm10.939,0h4.287q2.687,0,3.672,1.1a3.738,3.738,0,0,1,.985,2.575,3.2,3.2,0,0,1-.359,1.579,4.8,4.8,0,0,1-1.154,1.3,3.906,3.906,0,0,1,2.158,1.526,3.981,3.981,0,0,1,.633,2.154,3.759,3.759,0,0,1-1.388,3.108,6.1,6.1,0,0,1-3.907,1.113H12.39Zm3.172,2.423V10.49h.725a1.921,1.921,0,0,0,1.351-.5,1.621,1.621,0,0,0,.547-1.243,1.24,1.24,0,0,0-.536-1.011,2.123,2.123,0,0,0-1.339-.414Zm0,5.627v3.986H16.7q2.607,0,2.607-1.877a1.949,1.949,0,0,0-.635-1.563,2.7,2.7,0,0,0-1.816-.547Zm9.09-8.05H27.8V16.238h4.338v3.116H24.652Zm14.838,0h2.457l6,14.459H44.751l-1.178-2.841H37.925l-1.154,2.841H33.6Zm1.229,4.735-1.73,4.262h3.5Z" transform="translate(149.425 247.9)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

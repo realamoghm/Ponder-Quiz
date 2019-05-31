@@ -1,0 +1,203 @@
+{
+  "project_info": {
+    "project_number": "549403158478",
+    "firebase_url": "https://ponder-d9c31.firebaseio.com",
+    "project_id": "ponder-d9c31",
+    "storage_bucket": "ponder-d9c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549403158478:android:7c35b6a17873c98f",
+        "android_client_info": {
+          "package_name": "com.example.ka52.ponder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549403158478-tti2j54q79sesmbpim83vpbmko9egulh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ka52.ponder",
+            "certificate_hash": "426bf81fb51909a1ac229318daf90d6784cfae8a"
+          }
+        },
+        {
+          "client_id": "549403158478-t13903se5994esrn05lcsm4d7h6i8tr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ka52.ponder",
+            "certificate_hash": "0289790bc98f5cb3a86015f6e2b350c14f118081"
+          }
+        },
+        {
+          "client_id": "549403158478-f4aejll2cpkeub5rvc3kvkp70s0rul7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad5Ffot2Hz_OBYmN2D4Axw95PdzZf15s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549403158478-f4aejll2cpkeub5rvc3kvkp70s0rul7l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549403158478-c29llagrj2m1df82o7pahdvm8s6tel0j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ponder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549403158478:android:0c2180dcc2e6a6c6",
+        "android_client_info": {
+          "package_name": "com.fbla.ka52.ponder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549403158478-se70ok454h6p484ske55ttcfmtau0dtb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fbla.ka52.ponder",
+            "certificate_hash": "c30c38ac5950714f1a5d745b98560de755d877c2"
+          }
+        },
+        {
+          "client_id": "549403158478-l2grhjrg3rgrhu2it59lod6a89khkonn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fbla.ka52.ponder",
+            "certificate_hash": "bb49e2ebf30842bf6c23ceb3841cdcff36112322"
+          }
+        },
+        {
+          "client_id": "549403158478-f4aejll2cpkeub5rvc3kvkp70s0rul7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad5Ffot2Hz_OBYmN2D4Axw95PdzZf15s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549403158478-f4aejll2cpkeub5rvc3kvkp70s0rul7l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549403158478-c29llagrj2m1df82o7pahdvm8s6tel0j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ponder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549403158478:android:186285347d4e997a",
+        "android_client_info": {
+          "package_name": "com.fbla.ponder_nlc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549403158478-f4aejll2cpkeub5rvc3kvkp70s0rul7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad5Ffot2Hz_OBYmN2D4Axw95PdzZf15s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549403158478-f4aejll2cpkeub5rvc3kvkp70s0rul7l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549403158478-c29llagrj2m1df82o7pahdvm8s6tel0j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ponder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549403158478:android:42aab70aef23045a",
+        "android_client_info": {
+          "package_name": "com.fbla1.ponder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549403158478-uprlvpefbcaonvui3rv5dtvgm3a8gsih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fbla1.ponder",
+            "certificate_hash": "2a66fcbf9d15c546904a83f1ea9fcadf37df9e7f"
+          }
+        },
+        {
+          "client_id": "549403158478-hm4uu1eauhah09tao3djrqvrtirtoa72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fbla1.ponder",
+            "certificate_hash": "c9aca5daf7e1dc68d11892a785e5d30aee74a616"
+          }
+        },
+        {
+          "client_id": "549403158478-f4aejll2cpkeub5rvc3kvkp70s0rul7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad5Ffot2Hz_OBYmN2D4Axw95PdzZf15s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549403158478-f4aejll2cpkeub5rvc3kvkp70s0rul7l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549403158478-c29llagrj2m1df82o7pahdvm8s6tel0j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ponder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
